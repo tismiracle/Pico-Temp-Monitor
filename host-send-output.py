@@ -1,7 +1,5 @@
-import serial
 import time
 import psutil
-import string
 import subprocess
 
 cpu_temps_list = []
