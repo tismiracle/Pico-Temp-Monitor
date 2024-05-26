@@ -1,8 +1,6 @@
 import serial
 import time
 import wmi
-import string
-import subprocess
 
 
 cpu_temps = 0
