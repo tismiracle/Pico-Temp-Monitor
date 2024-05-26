@@ -9,17 +9,17 @@ Temperature Monitor for Raspberry Pi Pico using WaveShare Pico-OLED 1.3 Display
 - Linux 
 
 ## Libaries
-1. Windows
+1. **Windows**
 - serial
 - time
 - wmi
 
-2. Linux
+2. **Linux**
 - psutil
 - serial
 - time
 
-3. Raspberry Pi Pico (receiver)
+3. **Raspberry Pi Pico (receiver)**
 - sys
 - machine (Pin, SPI)
 - framebuf
